@@ -28,4 +28,12 @@ tags:
 *   [@NCUSCC](https://github.com/NCUSCC) - 欢迎来到 CS for NCU，很高兴能与你同行。（2024-05-21）
 *   [@J621111](https://github.com/J621111) - Ciallo! Please make friends with me.🥺 (2025-08-27)
 *   [@CAICAIIs](https://github.com/CAICAIIs) - 相信的心就是你的魔法 (2025-08-27)
-
+*   [@codefashion007](https://github.com/codefashion007) - 唯有那份炫目，未曾忘却 (2025-09-10)
+*   [@zhz8011](https://github.com/zhz8011) - 广其识则天下大 (2025-09-11)
+*   [@Rinai-R](https://github.com/Rinai-R) - 这世上，无论多么短暂的瞬间，都有意义——就像我在此留下足迹的这一刻。 (2025-09-11)
+*   [@PurplePlanen](https://github.com/PurplePlanen) - TCP 连接已建立 🎶 (2025-09-12)
+*   [@jaychouchannel](https://github.com/jaychouchannel) - 我宁愿死在大罗马尼亚的沼泽中，也绝不活在小罗马尼亚的天堂里 (2025-9-13)
+*   [@ourcx](https://github.com/ourcx) - 现在过去未来都一样，向阳花木易为春~ (2025-09-13)
+*   [@YaoSiQian](https://github.com/YaoSiQian) - 永远都在学习的路上！ (2025-09-13)
+*   [@LunaRain_079](https://github.com/Saramanda9988) - 暂伴月将影，行乐须及春 (2025-09-13)
+*   [@Snow-kal](https://github.com/Snow-kal) - 循此苦旅，以达群星 (2025-09-13)
